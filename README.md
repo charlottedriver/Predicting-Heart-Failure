@@ -1,7 +1,7 @@
 # Predicting Mortality From Heart Failure
 
 ## Objective
-The objective of this study is to create a model that predicts the survival of patients with heart failure. 
+The objective of this project is to create a model that predicts the survival of patients with heart failure. 
 ## Data
 This dataset contains 12 features from 299 patients that can be used to predict mortality by heart failure. The patients consisted of 105 women and 194 men, and their ages range between 40 and 95 years old. 
 
